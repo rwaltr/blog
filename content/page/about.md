@@ -1,19 +1,19 @@
 ---
 title: About me
-subtitle: Why you'd want to hang out with me
+subtitle: Just another about page
 comments: false
 ---
 
 
-Hello!
+# Hello!
 
 My name is Ryan, and I am a Linux administrator by hobby and Linux nut by passion. 
 
-I tend to spend my time learning new open source technology, playing games, or trying to find the next big thing. 
+I tend to spend my time learning new open source technology, playing games (On linux!), or trying to find the next big thing. 
 
 > How long have you been using linux?
 
-- Since 2016, Started with [Fedora Linux!](https://getfedora.org/)
+- Since 2016, Started with ![](https://getfedora.org/static/images/fedora_infinity_140x140.png)[Fedora Linux!](https://getfedora.org/)
 
 ### My achivments 
 
