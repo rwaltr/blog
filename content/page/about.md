@@ -4,20 +4,21 @@ subtitle: Why you'd want to hang out with me
 comments: false
 ---
 
-My name is The Dude. I have the following qualities:
 
-- I rock a great beard
-- I'm extremely loyal to my friends
-- I like bowling
+Hello!
 
-That rug really tied the room together.
+My name is Ryan, and I am a Linux administrator by hobby and Linux nut by passion. 
 
-### my history
+I tend to spend my time learning new open source technology, playing games, or trying to find the next big thing. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you
-just watch [my movie](https://en.wikipedia.org/wiki/The_Big_Lebowski) and it
-will answer **all** your questions.
+> How long have you been using linux?
 
-### Is this blog up to date
+- Since 2016, Started with [Fedora Linux!](https://getfedora.org/)
+
+### My achivments 
+
+I got my RHCSA, Isn't that cool?
+
+> Is this blog up to date?
 
 Depends, is this icon green? [![pipeline status](https://gitlab.com/Blackphidora/plandingpage/badges/master/pipeline.svg)](https://gitlab.com/Blackphidora/plandingpage/commits/master)
