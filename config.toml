@@ -1,4 +1,4 @@
-baseurl = "https://blackphidora.gitlab.io/plandingpage"
+baseurl = "https://blog.waltr.tech"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
