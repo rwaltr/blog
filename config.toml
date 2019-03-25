@@ -35,7 +35,7 @@ pygmentCodeFences = true
 
 [Author]
   name = "Ryan W. Walter"
-  #email = "ryan@blackphidora.com"
+  email = "rwalt@pm.me"
   #facebook = "username"
   gitlab = "blackphidora"
   github = "blackphidora"
