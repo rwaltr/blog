@@ -1,4 +1,4 @@
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://blackphidora.gitlab.io/plandingpage"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
