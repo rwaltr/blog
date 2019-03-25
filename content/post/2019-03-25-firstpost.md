@@ -6,8 +6,8 @@ date: 2019-03-25
 tags: ["hugo", "fluff"]
 ---
 
-    # Hello World
+# Hello World
 
-    ## Its nice to meet you, 
+## Its nice to meet you, 
 
-    Lets have some fun together!
+Lets have some fun together!
