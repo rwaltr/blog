@@ -13,7 +13,7 @@ I tend to spend my time learning new open source technology, playing games (On l
 
 > How long have you been using linux?
 
-- Since 2016, Started with ![](https://getfedora.org/static/images/fedora_infinity_140x140.png)[Fedora Linux!](https://getfedora.org/)
+- Since 2016, Started with [Fedora Linux!](https://getfedora.org/)
 
 ### My achivments 
 
