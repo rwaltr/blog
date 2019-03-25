@@ -2,7 +2,7 @@ baseurl = "https://blackphidora.gitlab.io/plandingpage"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Ryan W. Walter"
+title = "Blog.Waltr.Tech"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
