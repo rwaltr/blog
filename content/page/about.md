@@ -15,10 +15,14 @@ I tend to spend my time learning new open source technology, playing games (On l
 
 - Since 2016, Started with [Fedora Linux!](https://getfedora.org/)
 
-### My achivments 
+### What's cool about you?
 
 I got my RHCSA, Isn't that cool?
 
 > Is this blog up to date?
 
 Depends, is this icon green? [![pipeline status](https://gitlab.com/Blackphidora/plandingpage/badges/master/pipeline.svg)](https://gitlab.com/Blackphidora/plandingpage/commits/master)
+
+## How do I contact you?
+
+You will see my social links below, Feell free to use one of those.
