@@ -39,7 +39,7 @@ pygmentCodeFences = true
   #facebook = "username"
   gitlab = "blackphidora"
   github = "blackphidora"
-  #twitter = "username"
+  twitter = "rwaltrtech"
   #reddit = "username"
   linkedin = "rwaltrtech"
   #xing = "username"
@@ -52,7 +52,7 @@ pygmentCodeFences = true
   #bandcamp = "username"
   #itchio = "username"
   #keybase = "username"
-
+  mastodon = "linuxrocks.online/@rwaltr"
 
 [[menu.main]]
     name = "Blog"
