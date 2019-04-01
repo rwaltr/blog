@@ -52,7 +52,7 @@ pygmentCodeFences = true
   #bandcamp = "username"
   #itchio = "username"
   #keybase = "username"
-
+  mastodon = "linuxrocks.online/@rwaltr"
 
 [[menu.main]]
     name = "Blog"
