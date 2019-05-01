@@ -19,7 +19,6 @@ I tend to spend my time learning new open source technology, playing games (On l
 
 I got my [RHCSA](https://www.redhat.com/rhtapps/services/certifications/badge/verify/QIJCAGVI5YXHIHDKI5763UHL5IAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=), Isn't that cool?
 
-![Ryan's RHCSA Badge](rwalterrhcsa.png)
 
 > Is this blog up to date?
 
