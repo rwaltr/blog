@@ -26,4 +26,4 @@ Depends, is this icon green? [![pipeline status](https://gitlab.com/Blackphidora
 
 ## How do I contact you?
 
-You will see my social links below, Feell free to use one of those.
+You will see my social links below, Feel free to use one of those.
