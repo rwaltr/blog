@@ -17,7 +17,7 @@ ___
 
 Since 2016, Started with [Fedora Linux!](https://getfedora.org/)
 
-I have also used Manjaro.
+I have also used Manjaro, Although I am back on Fedora.
 
 My perfered server of choice is CentOS; Perhaps Alpine if need be.
 
