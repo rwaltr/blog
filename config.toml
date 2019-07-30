@@ -67,7 +67,7 @@ pygmentCodeFences = true
 [[menu.main]]
     name = "Rybook"
     url = "https://blackphidora.gitlab.io/rybook"
-    weight = 3
+    weight = 2
 
 #[[menu.main]]
 #    identifier = "samples"
