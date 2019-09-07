@@ -1,4 +1,4 @@
-baseurl = "http://blog.waltr.tech"
+baseurl = "https://blog.waltr.tech"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
