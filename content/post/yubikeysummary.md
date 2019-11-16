@@ -46,7 +46,7 @@ Press button, spits out the same thing every time. mainly used with legacy syste
 
     Used in... wherever you deem fit. acts identical to a normal password
 
-### Challange Response
+### Challenge Response
 
 The program and the yubikey talk to each other to perform a cryptographic challenge to authenticate.
 
