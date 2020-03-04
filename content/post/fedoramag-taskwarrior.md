@@ -1,7 +1,7 @@
 ---
 title: Taskwarrior On Fedora Magazine
-date: 2020-03-04
-publishdate: 2020-03-04
+date: 2020-03-05
+publishdate: 2020-03-05
 tags: ["Fedora", "Magazine","Taskwarrior"]
 ---
 
