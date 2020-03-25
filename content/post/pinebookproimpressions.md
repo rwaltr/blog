@@ -1,7 +1,7 @@
 ---
 title: First Pinebook Pro Impressions
 subtitle: Tons of Awesome in a small package
-date: 2020-03-20
+date: 2020-03-25
 tags: ["Pinebook", "Pine64", "Laptop"]
 ---
 
@@ -29,4 +29,5 @@ After installing a few of my tools of the trade. The Pinebook Pro is able to do 
 
 ## Whats next?
 
-Fedora for the Pinebook to be tested. as well for Manjaro, I3 for the Pinebook Pro.
+Fedora for the Pinebook to be tested. A OS that I am more farmiller with. Or something along the lines of Manjaro I3 edition.
+
