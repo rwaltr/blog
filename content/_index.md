@@ -1,2 +1,1 @@
-The Ramblings of a Linux fanatic and sysadmin
-
+### Fedora Contributor, Linux & Open Source Ambassador, Destroyer of Assets, Terrible tweeter
