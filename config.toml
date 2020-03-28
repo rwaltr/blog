@@ -15,7 +15,7 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "A Linux Fanatics page"
-  logo = "img/avatar-icon.png"
+  logo = "img/profile.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
