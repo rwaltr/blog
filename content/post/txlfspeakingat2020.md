@@ -1,7 +1,7 @@
 ---
 title: I will be speaking at Texas Linux Fest this year!
 subtitle: Now I am part of the Cool Talks for Texas Folk 
-date: 2020-03-15
+date: 2020-04-15
 publishdate: 2020-04-20
 tags: ["Events", "Linux","toolbox","hugo","texas","git"]
 
