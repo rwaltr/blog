@@ -9,4 +9,5 @@ I could write a large paragraph.
 
 Or show you the details!
 
-<script src="https://gitlab.com/-/snippets/2032952.js"></script>
+https://gitlab.com/-/snippets/2032952
+
