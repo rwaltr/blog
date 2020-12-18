@@ -1,6 +1,6 @@
 ---
 title: Centos Stream and Kubernetes 1.20.0v
-date: 2020-12-20
+date: 2020-12-17
 author: Ryan Walter
 tags: ["kubernetes", "centos","steam","containers","linux"]
 ---
