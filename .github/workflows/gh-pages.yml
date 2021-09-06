@@ -5,7 +5,9 @@ on:
     branches:
       - master  # Set a branch to deploy
   pull_request:
-
+  schedule:    
+  - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -26,7 +28,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
